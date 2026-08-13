@@ -99,7 +99,9 @@ The model can also estimate the probability of churn for an individual customer.
 
 Example:
 
-```text
+``text
 Churn Probability: ~69%
 Prediction: Churn
 
+Open in Google Colab
+https://colab.research.google.com/drive/1zeEUYtmcwdd01UbKRDwCh0Km9ABhK30s?usp=sharing
